@@ -7,12 +7,12 @@ Here we explore the 10 Academy Moodle logs stored in the database together with 
 ## Most Important Tables (MIT)
 Moodle database is complex - with more than 400 connected tables! In this project we are interested only in the subset of the tables. The most important tables we will consider in this challenge are (tables in bold are VIP)
 
-- **mdl_logstore_standard_log
-- **mdl_context
-- **mdl_user
-- **mdl_course
-- **mdl_modules 
-- **mdl_course_modules
+- **mdl_logstore_standard_log**
+- **mdl_context**
+- **mdl_user**
+- **mdl_course**
+- **mdl_modules**
+- **mdl_course_modules**
 - **mdl_course_modules_completion** 
 - mdl_grade_items
 - **mdl_grade_grades**
